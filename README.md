@@ -1,7 +1,7 @@
 # 📁 NeWVieW file explorer( In Development )
 
 ## About
-Welcome to the ** NeWVIeW**! 🌟 This modern and customizable file management application is built using Kivy and KivyMD. It offers a user-friendly interface for browsing, managing, and organizing files and directories on your system. 
+Welcome to the **NeWVIeW**! **THE NEW GEN FILE MANAGER** 🌟 This modern and customizable file manager is built using Kivy and KivyMD. It offers a user-friendly interface for browsing, managing, and organizing files and directories on your system. 
 
 ### Features
 - **✨ Intuitive UI**: Clean and modern design for a seamless experience.
